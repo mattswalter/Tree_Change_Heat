@@ -1,0 +1,25 @@
+lulc_code,lulc_name,type,val
+1,Residential,Loss,0.063477209
+2,Commercial,Loss,0.023656682
+3,Industrial,Loss,0.030207954
+4,Institution,Loss,0.042829642
+5,Transportation,Loss,0.030432474
+6,Recreation,Loss,0.059226015
+7,Park,Loss,0.059896909
+9,Vacant,Loss,0.101304323
+1,Residential,Gain,0.070539687
+2,Commercial,Gain,0.027122271
+3,Industrial,Gain,0.043505284
+4,Institution,Gain,0.058818735
+5,Transportation,Gain,0.044745372
+6,Recreation,Gain,0.085199524
+7,Park,Gain,0.098391351
+9,Vacant,Gain,0.102122014
+1,Residential,Overall Change,0.005998329
+2,Commercial,Overall Change,0.004735228
+3,Industrial,Overall Change,0.013017435
+4,Institution,Overall Change,0.01853525
+5,Transportation,Overall Change,0.013062684
+6,Recreation,Overall Change,0.011497825
+7,Park,Overall Change,0.043109252
+9,Vacant,Overall Change,0.01563924
